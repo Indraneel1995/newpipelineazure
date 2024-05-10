@@ -1,0 +1,9 @@
+{
+	"name": "ip1-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "68117c45-b136-4d77-882b-6a3b6594301c",
+		"tenantId": "03a71448-7867-4bdb-a8d1-e2a254feafb2"
+	}
+}
